@@ -1,0 +1,15 @@
+{
+  "app_name": "Sanaube App",
+  "version": "1.0.4",
+  "maintenance_mode": false,
+  "developer": "SoloHackerEmpress",
+  "features": {
+    "video_streaming": true,
+    "dark_mode": true,
+    "max_download_quality": "1080p"
+  },
+  "supported_regions": [
+    "Sri Lanka",
+    "Global"
+  ]
+}
